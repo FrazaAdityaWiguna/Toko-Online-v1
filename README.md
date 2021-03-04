@@ -12,3 +12,4 @@ Cart
 Wistlist
 Blog & News
 Chat on whatsapp (Chat di whatsapp)
+Checkout - Transfer Bank
